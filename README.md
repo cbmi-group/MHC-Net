@@ -4,7 +4,7 @@
 
 Y. Luo, Y. Guo and J. Huang contributed equally to this work. 
 
-A PyTorch implementation of MHC-Net based on the paper <font color=DeepSkyBlue> Accurate Segmentation for Intracellular Organelle Networks based on Low-level features and Primary Structure Invariance </font>.
+A PyTorch implementation of MHC-Net based on the paper <span style="color:red;"> Accurate Segmentation for Intracellular Organelle Networks based on Low-level features and Primary Structure Invariance </span>.
 
 ![MHC-Net](./images/MHC-Net.png)
 

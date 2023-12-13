@@ -1,8 +1,8 @@
 # Accurate Segmentation for Intracellular Organelle Networks based on Low-level features and Primary Structure Invariance
 
-*Yaoru Luo, Yuanhao Guo, Jiaxing Huang, Wenjing Li, and Ge Yang*
+*Jiaxing Huang, Yaoru Luo, Yuanhao Guo, Wenjing Li, and Ge Yang*
 
-Y. Luo, Y. Guo and J. Huang contributed equally to this work. 
+J. Huang, Y. Luo, and Y. Guo contributed equally to this work. 
 
 A PyTorch implementation of MHC-Net based on the paper  _**Accurate Segmentation for Intracellular Organelle Networks based on Low-level features and Primary Structure Invariance**_.
 
